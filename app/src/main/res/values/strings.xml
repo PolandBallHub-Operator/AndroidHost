@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidHostApp</string>
+    <string name="intro">USB ADBで別端末のgnirehtetクライアントを制御し、この端末上のリレーを起動します。</string>
+    <string name="usb_device_not_found">USB ADB端末: 未検出</string>
+    <string name="usb_device_found">USB ADB端末: %1$s</string>
+    <string name="usb_device_multiple">USB ADB端末: %1$s（複数検出。先頭を使用）</string>
+    <string name="refresh_usb">USB端末を再検索</string>
+    <string name="host_toggle">Hostリレーを開始</string>
+    <string name="status_stopped">状態: 停止中</string>
+    <string name="status_format">状態: %1$s</string>
+    <string name="status_usb_permission">状態: USBアクセス許可を確認中</string>
+    <string name="status_starting">状態: 起動中</string>
+    <string name="status_stopping">状態: 停止処理中</string>
+    <string name="transfer_initial">転送量: 送受信 0 B</string>
+    <string name="transfer_stats">転送量（gnirehtet IPv4パケット）: 受信端末→Host %1$s / Host→受信端末 %2$s</string>
+    <string name="requirements">前提: USB OTGホスト対応端末、相手機のUSBデバッグ許可、および相手機へのgnirehtetクライアントAPKのインストールが必要です。</string>
+    <string name="license_button">オープンソースライセンス</string>
+</resources>
