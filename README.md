@@ -1,6 +1,6 @@
 # AndroidHostApp
 <p align="center">
-  <img src="icon.png" width="150" alt="ロゴ">
+  <img src="icon.png" width="300" alt="ロゴ">
 </p>
 Android端末を**gnirehtetのホスト／リレー側**として動かすテンプレートです。受信側Androidには従来のgnirehtetクライアントAPKを別途インストールして使います。
 
