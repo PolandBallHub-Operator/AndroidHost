@@ -1,4 +1,4 @@
-# AndroidHostApp
+# droidHostApp
 <p align="center">
   <img src="icon.png" width="300" alt="ロゴ">
 </p>
